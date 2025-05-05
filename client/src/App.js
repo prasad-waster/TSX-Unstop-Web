@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>Your Name</h1>
+        <h1>Prasad Waster</h1>
         <p>Full-Stack Developer | Tech Enthusiast</p>
       </header>
 
@@ -33,7 +33,7 @@ function App() {
           <h3>Plant Growth Analyzer</h3>
           <p>AI-based plant monitoring tool using image processing.</p>
           <p><strong>Your Role:</strong> AI Developer, Frontend Designer</p>
-          <a href="https://github.com/yourusername/plant-growth" target="_blank" rel="noreferrer">GitHub</a>
+          <a href="https://github.com/prasad-waster" target="_blank" rel="noreferrer">GitHub</a>
         </div>
       </section>
 
